@@ -11,7 +11,7 @@ public class Demo1Application {
 	}
 
 	String HolaMundo(){
-		return "Hellow world";
+		return "Hellow world men";
 	}
 
 }
